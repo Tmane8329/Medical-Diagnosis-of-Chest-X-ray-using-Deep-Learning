@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 Medical Diagnosis of Chest X-ray using Deep Learning
 
 <p align="center">
@@ -168,3 +169,5 @@ Bachelor of Engineering (Computer Engineering)
 ## ⭐ Support
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub.
+=======
+
