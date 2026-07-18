@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+tf_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model files (optional if too large)
+*.h5
+
+# Dataset
+dataset/
+images/
+data/
+
+# OS Files
+.DS_Store
+Thumbs.db

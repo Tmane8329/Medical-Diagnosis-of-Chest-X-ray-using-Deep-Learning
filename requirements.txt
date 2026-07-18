@@ -1,0 +1,10 @@
+
+# Core
+tensorflow
+streamlit
+numpy
+matplotlib
+opencv-python
+Pillow
+h5py
+
