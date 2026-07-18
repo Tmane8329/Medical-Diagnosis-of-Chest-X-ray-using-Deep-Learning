@@ -1,6 +1,20 @@
 # 🩺 Medical Diagnosis of Chest X-ray using Deep Learning
 
 <p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange?logo=tensorflow)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+</p>
+
+<p align="center">
   <img src="assets/banner.png" alt="Project Banner" width="100%">
 </p>
 
