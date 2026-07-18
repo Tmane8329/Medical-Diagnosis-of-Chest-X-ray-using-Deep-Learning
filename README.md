@@ -1,6 +1,11 @@
 # 🩺 Medical Diagnosis of Chest X-ray using Deep Learning
 
 <p align="center">
+  <img src="banner.png" width="100%" alt="Project Banner">
+</p>
+
+# 🩺 AI Medical Diagnosis System
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 
@@ -14,9 +19,6 @@
 
 </p>
 
-<p align="center">
-  <img src="assets/banner.png" alt="Project Banner" width="100%">
-</p>
 
 ## 📌 Overview
 
