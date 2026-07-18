@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# 🩺 Medical Diagnosis of Chest X-ray using Deep Learning
 
 <p align="center">
   <img src="banner.png" width="100%" alt="Project Banner">
